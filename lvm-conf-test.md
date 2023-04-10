@@ -34,4 +34,6 @@ resize2fs /dev/Volgroup01/root
 
 * Finally, check disk space to see the expanded disk space
 
-   root@]df-h
+```cmd
+df-Th
+```
